@@ -1,5 +1,5 @@
 ---
-likes: 1
+likes: 2
 title: test
 model: claude-sonnet-4-5
 date: 2026-06-05
